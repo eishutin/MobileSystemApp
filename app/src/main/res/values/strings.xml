@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileSystemsApp</string>
+    <string name="tab_text_1">Window 1</string>
+    <string name="tab_text_2">Window 2</string>
+</resources>
